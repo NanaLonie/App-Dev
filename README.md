@@ -1,2 +1,2 @@
-# App-Dev
-My first repository
+# My favorite series
+**Game of Thrones**
